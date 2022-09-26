@@ -31,12 +31,6 @@
 <polyline points='36.46,229.19 633.60,229.19 ' style='stroke-width: 1.16; stroke-dasharray: 1.55,4.66; stroke-linecap: butt;' />
 <polyline points='36.46,143.65 633.60,143.65 ' style='stroke-width: 1.16; stroke-dasharray: 1.55,4.66; stroke-linecap: butt;' />
 <polyline points='36.46,58.11 633.60,58.11 ' style='stroke-width: 1.16; stroke-dasharray: 1.55,4.66; stroke-linecap: butt;' />
-<circle cx='226.46' cy='367.01' r='4.62' style='stroke-width: 0.71; stroke: #BEBEBE; fill: #BEBEBE;' />
-<circle cx='335.03' cy='325.43' r='4.62' style='stroke-width: 0.71; stroke: #BEBEBE; fill: #BEBEBE;' />
-<circle cx='335.03' cy='58.11' r='4.62' style='stroke-width: 0.71; stroke: #BEBEBE; fill: #BEBEBE;' />
-<circle cx='443.60' cy='241.41' r='4.62' style='stroke-width: 0.71; stroke: #BEBEBE; fill: #BEBEBE;' />
-<circle cx='552.17' cy='280.52' r='4.62' style='stroke-width: 0.71; stroke: #BEBEBE; fill: #BEBEBE;' />
-<circle cx='552.17' cy='58.11' r='4.62' style='stroke-width: 0.71; stroke: #BEBEBE; fill: #BEBEBE;' />
 <polyline points='226.46,348.66 230.58,347.51 234.71,346.36 238.83,345.21 242.95,344.05 247.08,342.88 251.20,341.71 255.32,340.54 259.44,339.36 263.57,338.18 267.69,336.99 271.81,335.80 275.94,334.60 280.06,333.40 284.18,332.20 288.30,330.99 292.43,329.78 296.55,328.56 300.67,327.34 304.80,326.11 308.92,324.88 313.04,323.65 317.17,322.41 321.29,321.17 325.41,319.93 329.53,318.68 333.66,317.43 337.78,316.18 341.90,314.92 346.03,313.66 350.15,312.40 354.27,311.14 358.39,309.87 362.52,308.60 366.64,307.32 370.76,306.05 374.89,304.77 379.01,303.49 383.13,302.20 387.25,300.92 391.38,299.63 395.50,298.34 399.62,297.05 403.75,295.75 407.87,294.46 411.99,293.16 416.12,291.86 420.24,290.56 424.36,289.26 428.48,287.96 432.61,286.65 436.73,285.35 440.85,284.04 444.98,282.73 449.10,281.42 453.22,280.12 457.34,278.81 461.47,277.50 465.59,276.19 469.71,274.87 473.84,273.56 477.96,272.25 482.08,270.94 486.21,269.63 490.33,268.32 494.45,267.01 498.57,265.70 502.70,264.39 506.82,263.08 510.94,261.77 515.07,260.46 519.19,259.16 523.31,257.85 527.43,256.55 531.56,255.24 535.68,253.94 539.80,252.64 543.93,251.34 548.05,250.04 552.17,248.75 ' style='stroke-width: 4.27; stroke: #F2D096; stroke-linecap: butt;' />
 <rect x='36.46' y='42.66' width='597.14' height='339.79' style='stroke-width: 1.16; stroke: none;' />
 </g>
@@ -56,7 +50,7 @@
 <text x='335.03' y='396.47' text-anchor='middle' style='font-size: 12.00px; font-weight: bold; font-family: Arial;' textLength='23.36px' lengthAdjust='spacingAndGlyphs'>0.50</text>
 <text x='470.74' y='396.47' text-anchor='middle' style='font-size: 12.00px; font-weight: bold; font-family: Arial;' textLength='23.36px' lengthAdjust='spacingAndGlyphs'>0.75</text>
 <text x='606.46' y='396.47' text-anchor='middle' style='font-size: 12.00px; font-weight: bold; font-family: Arial;' textLength='23.36px' lengthAdjust='spacingAndGlyphs'>1.00</text>
-<text x='335.03' y='413.70' text-anchor='middle' style='font-size: 20.00px; font-weight: 0; font-family: Courier;' textLength='108.02px' lengthAdjust='spacingAndGlyphs'>Coherence</text>
+<text x='335.03' y='413.70' text-anchor='middle' style='font-size: 20.00px; font-weight: 0; font-family: Courier;' textLength='168.03px' lengthAdjust='spacingAndGlyphs'>Number of Dots</text>
 <text x='335.03' y='31.08' text-anchor='middle' style='font-size: 28.80px; font-weight: 0; font-family: Courier;' textLength='552.96px' lengthAdjust='spacingAndGlyphs'>Proportion of External Selection</text>
 </g>
 </svg>
